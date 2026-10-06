@@ -10,3 +10,7 @@ Evaluacion practica correspondiente al desarrollo de Control de versiones con Gi
 
 Control de cambios
 Se realiza la gestion y control de cambios en el area de preparacion mediante comandos Git.
+
+
+Gestion de ramas
+Se creo la rama feature-flores para desarrollar una clase Java independiente y luego fusionarla con la rama main.
