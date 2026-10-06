@@ -6,3 +6,7 @@ Descripcion: Repositorio para la Evaluacion T2 enfocado en la preparacion, confi
 
 Evidencia T2
 Evaluacion practica correspondiente al desarrollo de Control de versiones con Git y GitHub.
+
+
+Control de cambios
+Se realiza la gestion y control de cambios en el area de preparacion mediante comandos Git.
